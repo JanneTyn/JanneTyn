@@ -1,4 +1,14 @@
-## Hi there 👋
+## Summary of my work in Pelifarmi projects
+
+During 2024 I worked on four game projects in Pelifarmi. Here's more specific details about each one:
+
+**Skyward Saga** - Main gameplay features: Character movement, day/night switch mechanism, various platform functionality. [Example of PlayerMovement script](https://github.com/JanneTyn/Skyward-Saga/blob/main/Assets/Scripts/Player/PlayerMovement.cs)
+
+**Spider Tank** - Implemented player's shooting and all the weapons. Created an levelling/upgrading system. Couple of examples: [Missile Launcher Script](https://github.com/JanneTyn/spidertank/blob/main/Assets/Scripts/MissileLauncherScript.cs) and [Upgrades](https://github.com/JanneTyn/spidertank/blob/main/Assets/Scripts/Upgrades.cs)
+
+**Boiro** - Mostly worked on upgrade system and some minor features. Addiotionally game balancing and QA-testing. [Example of upgrade scripts](https://github.com/JanneTyn/bindingripoff/blob/main/Assets/Scripts/UI/UpgradeMenu.cs)
+
+**Magebound** - Various tasks: Player movement and level area, projectiles & aiming, some abilities (dashing, explosions, crystal shard), spell synergies, gameplay balancing. [Example of Dash script](https://github.com/JanneTyn/Magebound/blob/main/Assets/Dash.cs)
 
 <!--
 **JanneTyn/JanneTyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
